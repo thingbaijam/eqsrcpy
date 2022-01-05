@@ -1,1 +1,1 @@
-##Scaling of Earthquake Source
+## Scaling of Earthquake Source

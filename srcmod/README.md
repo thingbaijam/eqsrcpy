@@ -2,7 +2,7 @@
 
 #### Working with MAT format
 
-Reading MAT format with python is straigtforward.
+Reading MAT format with python is straightforward.
 
 
 
